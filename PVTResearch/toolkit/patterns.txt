@@ -1,0 +1,20 @@
+innervate; (?i)innervat(e|es|ing){1};true;innervat(e|es|ing){1}
+innervation of; (?i)innervation(s){0,1} of;true;innervation
+projection to; (?i)projection(s){0,1} to;true;projection
+projection of; (?i)projection(s){0,1} of;true;projection
+projection target of; (?i)projection target(s){0,1} of;true; projection
+projection from; (?i)(the ){0,1}projection(s){0,1} from;true;projection
+project to; (?i)project(ing|s|ed){0,1} ((\w)* ){0,2}to;true;project(s|ed|ing){0,1}
+project into; (?i)project(ing|s|ed){0,1} ((\w)* ){0,2}into;true;project(s|ed|ing){0,1}
+project from; (?i)project(ing|s|ed){0,1} from;true;project(s|ed|ing){0,1}
+receive input from; (?i)receiv(e|es|ing|ed){0,1} ((\w)* ){0,4}input(s){0,1} ((\w)* ){0,3}(from);true;receiv(e|es|ing|ed){0,1}
+receive fiber from; (?i)receiv(e|es|ing|ed){0,1} ((\w)* ){0,4}fiber(s){0,1} ((\w)* ){0,3}(from);true;receiv(e|es|ing|ed){0,1}
+receive innervation from; (?i)receiv(e|es|ing|ed){0,1} ((\w)* ){0,4}innervation(s){0,1} ((\w)* ){0,3}(from);true;receiv(e|es|ing|ed){0,1}
+receive [ae]fferent from; (?i)receiv(e|es|ing|ed){0,1} ((\w)* ){0,4}[ae]fferent(s){0,1} ((\w)* ){0,3}(from);true;receiv(e|es|ing|ed){0,1}
+send via; (?i)(((sen(d|ds|ding|t)) ((\w)* )*via ((\w)* )*to));true;sen(d|ds|ding|t)
+send from; (?i) (((sen(d|ds|ding|t)) from ((\w)* )*to));true;sen(d|ds|ding|t)
+send to; (?i) (sen(d|ds|ding|t)) ((\w)* ){0,2}to;true;sen(d|ds|ding|t)
+travelling to; (?i)travel(s|ling){0,1} ((\w)* ){0,2}from ((\w)* ){0,5}to;true;travel(s|ling){0,1}
+travel through; (?i)travel(s|ling){0,1} ((\w)* )*through;true;travel(s|ling){0,1}
+exit through; (?i)exit(s|ing){0,1} ((\w)* )*through;true;exit(s|ing){0,1}
+exit from; (?i)exit(s|ing){0,1} ((\w)* )*from;true;exit(s|ing){0,1}
