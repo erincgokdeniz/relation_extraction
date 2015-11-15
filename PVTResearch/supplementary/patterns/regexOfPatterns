@@ -1,0 +1,23 @@
+(?i)innervat(e|es|ing){1}
+(?i)innervation(s){0,1} of
+(?i)projection(s){0,1} to
+(?i)projection(s){0,1} to ((\\w+)\\s){0,8} from
+(?i)projection(s){0,1} of
+(?i)projection target(s){0,1} of
+(?i)(the ){0,1}projection(s){0,1} from
+(?i)projection(s){0,1} from ((\\w+)\\s){0,8} to
+(?i)project(ing|s|ed){0,1} ((\w)* ){0,2}to
+(?i)project(ing|s|ed){0,1} ((\w)* ){0,2}into
+(?i)project(ing|s|ed){0,1} from
+(?i)project(s|ed|ing){0,1} from ((\\w+)\\s){0,8} to
+(?i)receiv(e|es|ing|ed){0,1} ((\w)* ){0,4}input(s){0,1} ((\w)* ){0,3}(from)
+(?i)receiv(e|es|ing|ed){0,1} ((\w)* ){0,4}fiber(s){0,1} ((\w)* ){0,3}(from)
+(?i)receiv(e|es|ing|ed){0,1} ((\w)* ){0,4}innervation(s){0,1} ((\w)* ){0,3}(from)
+(?i)receiv(e|es|ing|ed){0,1} ((\w)* ){0,4}[ae]fferent(s){0,1} ((\w)* ){0,3}(from)
+(?i)(((sen(d|ds|ding|t)) ((\w)* )*via ((\w)* )*to))
+(?i)(((sen(d|ds|ding|t)) from ((\w)* )*to))
+(?i)(sen(d|ds|ding|t)) ((\w)* ){0,2}to
+(?i)travel(s|ling){0,1} ((\w)* ){0,2}from ((\w)* ){0,5}to
+(?i)travel(s|ling){0,1} ((\w)* )*through
+(?i)exit(s|ing){0,1} ((\w)* )*through
+(?i)exit(s|ing){0,1} ((\w)* )*from
