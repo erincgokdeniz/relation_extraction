@@ -5,8 +5,8 @@ Supplementary Data Guideline :
 All the supplementary data including brain region dictionary, annotated sentences, connectivity graphs and figures can be found under /PVTResearch/supplementary folder
 
 Following files are provided :
-- "Annotations and Index of Annotated Papers" : Includes annotated sentences from 14 PVT related publications. It contains 322 annotated sentences. (Loc: ../supplementary/)
-- "PVT-Direction Annotated" : Includes annotated directions for correctly extracted relations. For PVT Corpus 131 annotated direction can be found. (Loc: ../supplementary/)
+- "Annotations and PMIDs of Annotated Papers" : Includes annotated sentences from 14 PVT related publications. It contains 322 annotated sentences. (Loc: ../supplementary/)
+- "PVT-Direction Annotated" : Includes annotated directions for correctly extracted relations. For PVT Corpus 122 annotated direction can be found. (Loc: ../supplementary/)
 - "WhiteText - Direction Annotated" : Includes annotated directions for correctly extracted relations. For WhiteText Corpus 277 annotated direction can be found.  (Loc: ../supplementary/)
 - "Brain Region Dictionary" : A dictionary of brain region entities can be found in this file. (Loc: ../supplementary/)
 - "patterns" : List of patterns that are used in this study. (Loc: ../supplementary/patterns)
