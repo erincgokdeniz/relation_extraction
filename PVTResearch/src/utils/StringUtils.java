@@ -36,7 +36,8 @@ public class StringUtils {
 	}
 		
 	public static String getSanitizedText(String text){
-		
+
+		//test change
 		text = text.replace(",", "");
 		text = text.replace(" and ", "");
 		text = text.replace(" from ", "");
